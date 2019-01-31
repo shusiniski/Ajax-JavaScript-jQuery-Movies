@@ -1,0 +1,22 @@
+#filmler img, #film img{
+
+	width: 100%;
+
+}
+
+
+@media (min-width: 960px) {
+
+	#filmler .col-md-3 .yaxsi
+	{
+
+	    height: 390px;
+
+    }
+
+    #filmler .col-md-3 img
+    {
+
+	   height: 240px;
+    }
+}
